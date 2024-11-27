@@ -1,5 +1,7 @@
 These are two additional APIs utilized to stress test the results of Respector
 
+These two APIs can be cloned into a local computer even if they are currently not visible within github
+
 The first API is written using NodeJS and ExpressJS
 However, Respector only runs using Java APIs. This unfortunately means that prior progress was not meaningful
 
